@@ -1,0 +1,5 @@
+Dataset,#Nodes,#Edges,#Features,#Anomalies,Anomaly %,Avg Degree,Graph Density
+inj_cora,2708,5530,1433,210,7.75,4.08,1.51e-03
+weibo,8405,407963,400,347,4.13,48.54,5.78e-03
+reddit,10984,168016,64,366,3.33,15.3,1.39e-03
+enron,13533,176987,18,5,0.04,13.08,9.66e-04
