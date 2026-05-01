@@ -1,0 +1,16 @@
+# Generated experiment outputs
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Notebook/runtime artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local dataset caches
+pygod_data/
+*/pygod_data/
